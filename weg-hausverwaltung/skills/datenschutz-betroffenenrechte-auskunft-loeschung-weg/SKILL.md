@@ -47,7 +47,7 @@ EuGH, Urteil vom 26.10.2023 - C-307/22, FT: Die erste Kopie der personenbezogene
 
 ## Löschfristen und Aufbewahrungspflichten
 
-Löschbegehren scheitern regelmäßig an: § 257 HGB (10 Jahre Handelsbücher und Buchungsbelege), § 147 AO (6 Jahre Geschäftsbriefe, 10 Jahre Buchungsunterlagen), § 195 ff. BGB (regelmäßige Verjährungsfrist 3 Jahre ab Jahresende), § 18 Abs. 4 WEG i.V.m. § 24 WEG (Beschlusssammlung dauerhaft als Gemeinschaftseigentum). Norm § 257 HGB: https://www.gesetze-im-internet.de/hgb/__257.html. Norm § 147 AO: https://www.gesetze-im-internet.de/ao_1977/__147.html
+Löschbegehren scheitern regelmäßig an: § 257 HGB (10 Jahre Handelsbücher und Jahresabschlüsse, 8 Jahre Buchungsbelege, 6 Jahre Handelsbriefe), § 147 AO (6 Jahre Geschäftsbriefe, 8 Jahre Buchungsbelege, 10 Jahre Bücher und Jahresabschlüsse), § 195 ff. BGB (regelmäßige Verjährungsfrist 3 Jahre ab Jahresende), § 18 Abs. 4 WEG i.V.m. § 24 WEG (Beschlusssammlung dauerhaft als Gemeinschaftseigentum). Norm § 257 HGB: https://www.gesetze-im-internet.de/hgb/__257.html. Norm § 147 AO: https://www.gesetze-im-internet.de/ao_1977/__147.html
 
 ## Verweigerungsgründe
 

@@ -22,7 +22,7 @@ description: "Für UStVA, Eingangsrechnungen und Kanzlei-Buchhaltung: ordnet Nor
 ## Zentrale Normen
 - § 18 UStG — Voranmeldungspflicht; Abgabefrist 10. des Folgemonats
 - § 14 UStG — Pflichtangaben auf Rechnungen; Vorsteuerabzug
-- § 147 AO — Aufbewahrungspflicht 10 Jahre für Buchungsbelege
+- § 147 AO — Aufbewahrungspflicht 8 Jahre für Buchungsbelege (seit 01.01.2025, vorher 10 Jahre); Bücher und Jahresabschlüsse 10 Jahre
 - § 152 AO — Verspaetungszuschlag bei verspaeteter Abgabe
 
 ## Datenquellen

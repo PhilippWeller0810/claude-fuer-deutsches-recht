@@ -81,7 +81,7 @@ Mit der Einführung der E-Rechnungspflicht im B2B-Verkehr (§ 14 UStG n.F. ab 01
 | 12 | ZUGFeRD-Paket (falls nötig) | PDF/A-3 mit eingebettetem XML (Factur-X Level EXTENDED oder EN 16931); Echtheitsprüfung | ZUGFeRD fertig |
 | 13 | GoBD-Protokoll | Änderungslog; Storno und Korrekturrechnung dokumentieren; Unveränderbarkeit durch Zeitstempel | GoBD-konform |
 | 14 | DATEV-Export | CSV-kompatible Buchungsvorschläge: Buchungsdatum, Buchungstext, Betrag, Konto, Gegenkonto | Export bereit |
-| 15 | Versand und Archivierung | E-Rechnung per Peppol oder direkte XML-Übermittlung; Archivierung 10 Jahre (§ 147 AO) | Archiviert |
+| 15 | Versand und Archivierung | E-Rechnung per Peppol oder direkte XML-Übermittlung; Archivierung 8 Jahre (Rechnung als Buchungsbeleg, § 147 Abs. 1 Nr. 4, Abs. 3 AO) | Archiviert |
 
 ## GoBD-Anforderungen im Überblick
 
@@ -92,7 +92,7 @@ Mit der Einführung der E-Rechnungspflicht im B2B-Verkehr (§ 14 UStG n.F. ab 01
 | Ordnung | Belege müssen jederzeit auffindbar und lesbar sein; Indexierung erforderlich | Unstrukturierte E-Mail-Ablage ohne Belegkette |
 | Nachvollziehbarkeit | Buchungsweg vom Erstbeleg bis zum Jahresabschluss muss lückenlos sein | Fehlende Verknüpfung zwischen Zeiterfassung und Buchungsbeleg |
 | Zeitgerechtheit | Buchungen zeitnah vornehmen; keine systematischen Rückdatierungen | Rechnungen erst Monate nach Leistung gestellt und rückdatiert |
-| Aufbewahrung | 10 Jahre für Rechnungen (§ 147 Abs. 1 Nr. 1 AO) | Löschung digitaler Unterlagen nach 6 Jahren |
+| Aufbewahrung | 8 Jahre für Rechnungen als Buchungsbelege (§ 147 Abs. 1 Nr. 4, Abs. 3 AO) | Löschung digitaler Unterlagen vor Ablauf der 8 Jahre |
 
 ## E-Rechnung: XRechnung vs. ZUGFeRD
 

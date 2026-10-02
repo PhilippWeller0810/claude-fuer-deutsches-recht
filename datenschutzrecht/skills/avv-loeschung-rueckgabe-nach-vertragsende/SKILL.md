@@ -40,7 +40,7 @@ Strukturierung des Endphase-Managements im AVV: Wahlrecht des Verantwortlichen, 
  - Logfiles: Aufbewahrungspflicht versus Datensparsamkeit abwaegen.
 
 4. **Aufbewahrungsausnahmen.**
- - § 257 HGB, § 147 AO: 10 Jahre, 6 Jahre.
+ - § 257 HGB, § 147 AO: Buchungsbelege 8 Jahre (seit 01.01.2025, vorher 10), Bücher und Jahresabschlüsse 10 Jahre, Handels- und Geschäftsbriefe 6 Jahre.
  - § 50 BDSG: bis Zweckerreichung beendet.
  - § 195 BGB i.V.m. § 199 BGB: Verjährungsablauf abwarten.
  - Sicherstellen: Aufbewahrungsdaten sind separiert, zugriffsbeschraenkt und nicht weiter verarbeitet (Sperrung).

@@ -22,7 +22,7 @@ description: "Für Timesheet und Aktenzeitung: ordnet Akte, Belege und Lücken; 
 ## Zentrale Normen
 - § 10 RVG — Taetigkeitsbeschreibung als Pflichtangabe der Honorarrechnung
 - § 3a RVG — Stundensatz-Vereinbarung: setzt nachvollziehbare Zeiterfassung voraus
-- § 147 AO — Aufbewahrungspflicht 10 Jahre für Buchungsbelege inkl. Timesheet
+- § 147 AO — Aufbewahrungspflicht 8 Jahre für Buchungsbelege (seit 01.01.2025, vorher 10 Jahre) inkl. Timesheet, soweit es Buchungsbeleg ist
 - § 238 HGB — Buchfuehrungspflicht: Zeitnarrative als betriebliche Aufzeichnung
 
 ## Erfassungseinheit

@@ -62,7 +62,7 @@ Skript prüft alle drei Monate:
 ## Datenschutz und Löschung
 
 - **Aufbewahrungsfrist** § 50 Abs. 1 BRAO sechs Jahre nach Mandatsende.
-- **Steuerlich** § 147 AO bei Buchhaltungsunterlagen acht oder zehn Jahre.
+- **Steuerlich** § 147 AO: Buchungsbelege acht Jahre, Bücher und Jahresabschlüsse zehn Jahre, Geschäftsbriefe sechs Jahre.
 - **Nach Ablauf** vernichten — physisch durch Aktenvernichter oder digital durch sicheres Löschen.
 - **DSGVO Art. 5 Abs. 1 lit. e** Speicherbegrenzung: Daten nicht laenger als notwendig.
 

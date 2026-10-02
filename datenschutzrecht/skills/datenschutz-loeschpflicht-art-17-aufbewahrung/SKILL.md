@@ -14,7 +14,7 @@ Sieben-Fragen-Diagnose:
 1. **Datenkategorie:** Kunden-, Mitarbeiter-, Bewerber-, Buchhaltungs-, Vertragsdaten?
 2. **Verarbeitungszweck:** Welcher Zweck rechtfertigte die Verarbeitung, ist er noch aktuell?
 3. **Rechtsgrundlage:** Art. 6 I a-f? Einwilligung widerrufbar Art. 7 III?
-4. **Konkurrierende Aufbewahrungspflicht:** § 257 HGB sechs/zehn Jahre, § 147 AO acht/zehn Jahre, GoBD, § 17 GwG, sozialversicherungsrechtlich?
+4. **Konkurrierende Aufbewahrungspflicht:** § 257 HGB sechs/acht/zehn Jahre, § 147 AO sechs/acht/zehn Jahre, GoBD, § 17 GwG, sozialversicherungsrechtlich?
 5. **Sperrung statt Loeschung:** Ist Art. 18 DSGVO einschlaegig?
 6. **Backup-Strategie:** Werden Daten auch in Backups gehalten? Konzept für Loeschung Backup oder nur Produktivsystem?
 7. **Drittweitergabe:** Art. 19 DSGVO Mitteilungspflicht?
@@ -27,7 +27,7 @@ Sieben-Fragen-Diagnose:
 - **Art. 18 DSGVO** Einschraenkung (Sperrung) — als Alternative wenn Loeschung nicht möglich.
 - **Art. 19 DSGVO** Mitteilungspflicht gegenueber Empfaengern.
 - **§ 257 HGB** Aufbewahrung Handelsbuecher zehn Jahre; Handelsbriefe sechs Jahre.
-- **§ 147 AO** Aufbewahrung Buchungsbelege zehn Jahre (Stand 2026 nach Wachstumschancengesetz acht Jahre für bestimmte Belege), sonstige sechs Jahre.
+- **§ 147 AO** Aufbewahrung: Buchungsbelege acht Jahre (seit 01.01.2025 nach dem Vierten Bürokratieentlastungsgesetz, vorher zehn), Bücher, Aufzeichnungen, Inventare und Jahresabschlüsse zehn Jahre, Handels- und Geschäftsbriefe sowie sonstige Unterlagen sechs Jahre.
 - **§ 17 GwG** Mindestaufbewahrung Sorgfaltspflicht-Dokumentation fuenf Jahre, bis zu zehn.
 - **§ 28 SGB IV** sozialversicherungsrechtliche Aufbewahrung.
 - **EuGH C-129/21 Proximus** (Urteil 27.10.2022): Verantwortlicher muss bei Änderung der Verarbeitungslage selbst Maßnahmen ergreifen.
@@ -79,7 +79,7 @@ DSB benachrichtigt: [ja/nein]
 ### Loeschkonzept-Skizze (intern)
 
 ```
-Datenkategorie 1 (Buchhaltungsdaten): § 147 AO 10 Jahre → Loeschung Jahr 11
+Datenkategorie 1 (Buchhaltungsdaten): § 147 AO Buchungsbelege 8 Jahre → Loeschung Jahr 9; Bücher und Jahresabschlüsse 10 Jahre → Loeschung Jahr 11
 Datenkategorie 2 (Handelsbriefe): § 257 II HGB 6 Jahre → Loeschung Jahr 7
 Datenkategorie 3 (Bewerberdaten): regelmaessig 6 Monate (Diskriminierungspraevention § 15 IV AGG)
 Datenkategorie 4 (Mitarbeiter aktiv): waehrend Beschaeftigung + Aufbewahrungspflicht steuerlich

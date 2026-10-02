@@ -19,7 +19,7 @@ Korrekte Buchführung ist die Grundlage für Steuern und Betriebsprüfungen:
 
 - **§ 4 Abs. 3 EStG**: EÜR (Einnahmen-Überschuss-Rechnung) als vereinfachte Methode; Zuflussprinzip (§ 11 EStG).
 - **§ 141 AO**: Buchführungspflicht ab 600 000 € Umsatz oder 60 000 € Gewinn; darunter EÜR ausreichend.
-- **§ 147 AO**: Belegaufbewahrung 10 Jahre (Buchungsbelege), 6 Jahre (sonstige Unterlagen).
+- **§ 147 AO**: Belegaufbewahrung 8 Jahre (Buchungsbelege, seit 01.01.2025, vorher 10 Jahre), 6 Jahre (sonstige Unterlagen).
 - **GoBD**: Belege unveränderbar, jederzeit lesbar, vollständig; digitale Belege = Original wenn ordnungsgemäß gespeichert.
 - **§ 14 UStG**: Rechnungspflichtangaben; ohne vollständige Rechnung kein Vorsteuerabzug.
 - **DATEV**: Standardsoftware vieler Steuerberater; Creator-Buchungen über SKR 03 oder SKR 04.

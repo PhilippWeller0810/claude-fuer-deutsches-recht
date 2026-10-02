@@ -72,7 +72,7 @@ Zugriffskonzept
 - Nach Ende der Verarbeitung mindestens für den Zeitraum etwaiger Anspruchsverjaehrungen (Art. 82 DSGVO; immaterieller Schaden) — Empfehlung: 5 Jahre nach Ende der Verarbeitung; bei öffentlichen Stellen oft 10 Jahre.
 - Alte Versionen nicht loeschen, sondern archivieren.
 - Bei Anbieterwechsel: Übergabe der Akte einschliesslich aller Versionen.
-- Bei steuerlich relevanten Verarbeitungen ggf. § 147 AO 10 Jahre.
+- Bei steuerlich relevanten Verarbeitungen ggf. § 147 AO: Buchungsbelege 8 Jahre, Bücher und Jahresabschlüsse 10 Jahre, Geschäftsbriefe 6 Jahre.
 
 ## Beweiswertkriterien
 

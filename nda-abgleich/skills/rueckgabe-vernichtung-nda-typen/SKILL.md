@@ -61,7 +61,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 ### Ausnahmen (Standard-Carve-outs)
 
-- **Gesetzliche Aufbewahrungspflichten** (z.B. § 257 HGB 10 Jahre für Geschäftsbriefe, § 147 AO 10 Jahre für steuerlich relevante Unterlagen, § 50 GwG 5 Jahre für Geldwaeschepruefung).
+- **Gesetzliche Aufbewahrungspflichten** (z.B. § 257 HGB 6 Jahre für Handelsbriefe, § 147 AO 6 Jahre für Geschäftsbriefe, 8 Jahre für Buchungsbelege und 10 Jahre für Bücher und Jahresabschlüsse, § 50 GwG 5 Jahre für Geldwaeschepruefung).
 - **Backups / Archivsysteme:** "Standard IT-Backups" müssen nicht aktiv geloescht werden, solange Zugriff beschraenkt und Vernichtung im normalen Backup-Zyklus erfolgt.
 - **Rechtsberater (Legal Hold):** Anwaelte müssen nach Berufsrecht (§ 50 BRAO, § 53 StPO) Mandantenakten aufbewahren; gleichwohl unterliegen sie dem Mandatsgeheimnis.
 - **Vorbereitungsmaterial / Memoranden:** Eigene Analysen mit Bezug auf Vertrauliche Informationen werden oft mit Vernichtungspflicht erfasst; abweichende Klausel ("Working Papers") nur dann tragbar, wenn der Inhalt vollstaendig anonymisiert wird.
